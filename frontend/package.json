@@ -15,7 +15,7 @@
     "codelyzer": "0.0.24",
     "es6-shim": "0.35.0",
     "jquery": "2.2.4",
-    "lodash": "4.15.0",
+    "lodash": "4.17.21",
     "merge-stream": "1.0.0",
     "ng2-bootstrap": "1.0.24",
     "ng2-translate": "2.2.2",
